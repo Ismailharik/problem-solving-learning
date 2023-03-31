@@ -46,6 +46,8 @@ public class Main {
         System.out.println(genericStack.pop());
         System.out.println(genericStack.pop());
         System.out.println(genericStack.pop());
+
+        ///
     }
 
 }
