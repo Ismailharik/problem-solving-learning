@@ -2,6 +2,10 @@ package org.example;
 
 import org.example.generics.GenericQueue;
 import org.example.generics.GenericStack;
+import org.example.iterators.IteratingQueue;
+import org.example.iterators.IteratingStack;
+
+import java.util.Iterator;
 
 public class Main {
     public static void main(String[] args) {
@@ -47,7 +51,37 @@ public class Main {
         System.out.println(genericStack.pop());
         System.out.println(genericStack.pop());
 
-        ///
-    }
+        System.out.println("---------GENERIC STACK IMPLEMENT ITERATOR ---------");
 
+        IteratingStack<Integer> iteratorStack = new IteratingStack<Integer>();
+        iteratorStack.push(1);
+        iteratorStack.push(2);
+        iteratorStack.push(3);
+        Iterator<Integer> i = iteratorStack.iterator();
+        System.out.println("===> Using While loop to iterate elements from the linked List");
+        while (i.hasNext()) {
+            System.out.println(i.next());
+        }
+        System.out.println("===> Using For each loop to iterate elements from the linked List");
+        for (Integer e: iteratorStack) {
+            System.out.println(e);
+        }
+
+        IteratingQueue<Integer> iteratingQueue = new IteratingQueue();
+        // If you don't mention type ( Integer inside <> to specify type you will find
+        // error(you will be obliged to use Object to iterate items)
+
+        iteratingQueue.enqueue(1);
+        iteratingQueue.enqueue(2);
+        iteratingQueue.enqueue(3);
+        Iterator j = iteratingQueue.iterator();
+        System.out.println("===> Using While loop to iterate elements from the Queue List");
+        while (j.hasNext()) {
+            System.out.println(j.next());
+        }
+        System.out.println("===> Using For each loop to iterate elements from the Queue List");
+        for (Integer e: iteratingQueue) {
+            System.out.println(e);
+        }
+    }
 }
