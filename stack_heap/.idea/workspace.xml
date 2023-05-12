@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="137b081e-43eb-402a-9f02-d397066b65a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/algoExpert/twoNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/PriorityQueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/QueueOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/StackOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/generics/GenericQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/generics/GenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/iterators/IteratingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/datastructures/stackQueue/iterators/IteratingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/MaxArrRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/PalindromeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/easy/reverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/lambdaExpression/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/lambdaExpression/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/lambdaExpression/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/medium/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/medium/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/medium/TreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/medium/TreeSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/medium/TreeSumPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/medium/ZigzagConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/medium/combinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/reverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/slidingWindow/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/sorts/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/sorts/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/sorts/MainSorts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/sorts/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/sorts/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/sorts/ShufflingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/streamsApi/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/streamsApi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode-prb-solving/leetcode-prb-solving/src/main/java/org/example/streamsApi/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/PriorityQueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/QueueOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/StackOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/generics/GenericQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/generics/GenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/iterators/IteratingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/stackQueue/iterators/IteratingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NmxFopWKMQT9ewA3s0y5J0SN0i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pc/Desktop/problem-solving/stack_heap/src/main/java/org/example",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.streamsApi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Desktop\problem-solving\stack_heap\src\main\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.sorts" />
+      <recent name="org.example.iterators" />
+      <recent name="org.example.generics" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SlidingWindow">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lambdaExpression.Main" />
+      <module name="algo_dataStr_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lambdaExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSorts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.sorts.MainSorts" />
+      <module name="algo_dataStr_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.sorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SlidingWindow" />
+      <module name="algo_dataStr_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.iterators.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.iterators.Main" />
+      <module name="algo_dataStr_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.iterators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.streamsApi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.streamsApi.Main" />
+      <module name="algo_dataStr_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.streamsApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SlidingWindow" />
+        <item itemvalue="Application.org.example.iterators.Main" />
+        <item itemvalue="Application.MainSorts" />
+        <item itemvalue="Application.org.example.streamsApi.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="137b081e-43eb-402a-9f02-d397066b65a4" name="Changes" comment="" />
+      <created>1680282959642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680282959642</updated>
+      <workItem from="1680282961526" duration="2000" />
+      <workItem from="1680283224505" duration="3736000" />
+      <workItem from="1680357500382" duration="9940000" />
+      <workItem from="1680481379109" duration="5484000" />
+      <workItem from="1680571335746" duration="8565000" />
+      <workItem from="1680790448947" duration="624000" />
+      <workItem from="1681312513756" duration="5862000" />
+      <workItem from="1683203219709" duration="114000" />
+      <workItem from="1683889650741" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
