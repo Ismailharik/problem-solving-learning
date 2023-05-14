@@ -45,6 +45,14 @@ class PriorityQueue<T> {
             tmp.next = node;
         }
     }
+    public void pop(){
+
+        if (head.next==null){// head will never be null ,
+            System.out.println("empty Queue");
+        }else{
+            head.next=head.next.next;
+        }
+    }
 
     public void printList(Node head) {
         if (head != null) {
@@ -67,10 +75,16 @@ public class PriorityQueueMain {
         priorityQueue.push( 5, 6);
         priorityQueue.push( 6, 2);
 
+        // pop should remove element with based on there priority 1 then 2 ...
+//        priorityQueue.pop();
+
+
 
         priorityQueue.printList(priorityQueue.head.next);
 
     }
+
+
 
 
 }

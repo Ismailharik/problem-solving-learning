@@ -1,9 +1,9 @@
 package org.example.stackQueue;
 
-import org.example.datastructures.stackQueue.generics.GenericQueue;
-import org.example.datastructures.stackQueue.generics.GenericStack;
-import org.example.datastructures.stackQueue.iterators.IteratingQueue;
-import org.example.datastructures.stackQueue.iterators.IteratingStack;
+import org.example.stackQueue.generics.GenericQueue;
+import org.example.stackQueue.generics.GenericStack;
+import org.example.stackQueue.iterators.IteratingQueue;
+import org.example.stackQueue.iterators.IteratingStack;
 
 import java.util.Iterator;
 

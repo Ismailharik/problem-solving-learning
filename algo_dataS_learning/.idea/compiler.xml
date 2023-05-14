@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="untitled" />
+        <module name="algo_dataS_learning" />
         <module name="algo_dataStr_learning" />
       </profile>
     </annotationProcessing>
